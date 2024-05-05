@@ -1,0 +1,17 @@
+.registerForm{
+    width: 40em;
+    background-color: #fff;
+}
+
+.mainForm{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../img/1971371.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.formTop{
+    font-size: 1.8em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,9 @@
+.cHeight{
+    width: 100%;
+    height: 40vh;
+}
+
+#cImg{
+    object-fit: contain;
+    background-color: #0D858E;
+}
